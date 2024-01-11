@@ -7,12 +7,12 @@
         display: flex;
         flex-direction: row;
         justify-content: center;
-        width: 100%;
+        /* width: 100%; */
     }
     
     .frame .overlap-group-wrapper {
         background-color: #ffffff;
-        width: 1366px;
+        /* width: 1366px; */
         /* height: 1087px; */
     }
     
@@ -24,7 +24,7 @@
     
     .frame .main-image {
         position: absolute;
-        width: 1366px;
+        /* width: 1366px; */
         /* height: 550px; */
         top: 63px;
         left: 0;
@@ -32,7 +32,7 @@
     
     .frame .text-wrapper {
         position: absolute;
-        width: 51px;
+        /* width: 51px; */
         /* height: 26px; */
         top: 15px;
         left: 225px;
@@ -49,7 +49,7 @@
     
     .frame .nav {
         position: absolute;
-        width: 19px;
+        /* width: 19px; */
         /* height: 18px; */
         top: 15px;
         left: 1120px;
@@ -64,7 +64,7 @@
     
     .frame .div {
         position: absolute;
-        width: 466px;
+        /* width: 466px; */
         /* height: 48px; */
         top: 620px;
         left: 445px;
@@ -79,7 +79,7 @@
     
     .frame .p {
         position: absolute;
-        width: 609px;
+        /* width: 609px; */
         /* height: 42px; */
         top: 710px;
         left: 378px;
@@ -94,7 +94,7 @@
     
     .frame .overlap {
         position: absolute;
-        width: 209px;
+        /* width: 209px; */
         /* height: 175px; */
         top: 814px;
         left: 227px;
@@ -102,7 +102,7 @@
     
     .frame .div-2 {
         position: absolute;
-        width: 209px;
+        /* width: 209px; */
         /* height: 153px; */
         top: 22px;
         left: 0;
@@ -115,7 +115,7 @@
         top: 0;
         object-fit: cover;
         position: absolute;
-        width: 78px;
+        /* width: 78px; */
         left: 66px;
     }
     
@@ -130,7 +130,7 @@
         letter-spacing: 0;
         /* line-height: 19.3px; */
         position: absolute;
-        width: 78px;
+        /* width: 78px; */
         left: 66px;
         display: flex;
         align-items: center;
@@ -139,7 +139,7 @@
     
     .frame .overlap-2 {
         position: absolute;
-        width: 210px;
+        /* width: 210px; */
         /* height: 175px; */
         top: 814px;
         left: 461px;
@@ -147,7 +147,7 @@
     
     .frame .div-3 {
         position: absolute;
-        width: 210px;
+        /* width: 210px; */
         /* height: 153px; */
         top: 22px;
         left: 0;
@@ -157,7 +157,7 @@
     
     .frame .img-2 {
         position: absolute;
-        width: 78px;
+        /* width: 78px; */
         /* height: 63px; */
         top: 0;
         left: 65px;
@@ -166,7 +166,7 @@
     
     .frame .text-wrapper-3 {
         position: absolute;
-        width: 90px;
+        /* width: 90px; */
         /* height: 92px; */
         top: 66px;
         left: 59px;
@@ -184,7 +184,7 @@
     
     .frame .overlap-3 {
         position: absolute;
-        width: 210px;
+        /* width: 210px; */
         /* height: 175px; */
         top: 814px;
         left: 695px;
@@ -192,7 +192,7 @@
     
     .frame .text-wrapper-4 {
         position: absolute;
-        width: 135px;
+        /* width: 135px; */
         /* height: 91px; */
         top: 66px;
         left: 38px;
@@ -210,7 +210,7 @@
     
     .frame .overlap-4 {
         position: absolute;
-        width: 209px;
+        /* width: 209px; */
         /* height: 175px; */
         top: 814px;
         left: 930px;
@@ -218,7 +218,7 @@
     
     .frame .updates-monitoring {
         position: absolute;
-        width: 135px;
+        /* width: 135px; */
         /* height: 91px; */
         top: 67px;
         left: 37px;
@@ -246,12 +246,12 @@
         display: flex;
         flex-direction: row;
         justify-content: center;
-        width: 100%;
+        /* width: 100%; */
       }
       
       .frame .overlap-group-wrapper {
         background-color: #ffffff;
-        width: 368px;
+        /* width: 368px; */
         /* height: 1225px; */
       }
       
@@ -263,7 +263,7 @@
       
       .frame .main-image {
         position: absolute;
-        width: 368px;
+        /* width: 368px; */
         /* height: 240px; */
         top: 63px;
         left: 0;
@@ -271,7 +271,7 @@
       
       .frame .text-wrapper {
         position: absolute;
-        width: 51px;
+        /* width: 51px; */
         /* height: 26px; */
         top: 15px;
         left: 47px;
@@ -288,7 +288,7 @@
       
       .frame .nav {
         position: absolute;
-        width: 19px;
+        /* width: 19px; */
         /* height: 18px; */
         top: 15px;
         left: 301px;
@@ -303,7 +303,7 @@
       
       .frame .div {
         position: absolute;
-        width: 347px;
+        /* width: 347px; */
         /* height: 55px; */
         top: 320px;
         left: 11px;
@@ -318,7 +318,7 @@
       
       .frame .p {
         position: absolute;
-        width: 268px;
+        /* width: 268px; */
         /* height: 119px; */
         top: 430px;
         left: 50px;
@@ -333,7 +333,7 @@
       
       .frame .overlap {
         position: absolute;
-        width: 272px;
+        /* width: 272px; */
         /* height: 135px; */
         top: 586px;
         left: 49px;
@@ -341,7 +341,7 @@
       
       .frame .inverter {
         position: absolute;
-        width: 272px;
+        /* width: 272px; */
         /* height: 115px; */
         top: 20px;
         left: 0;
@@ -351,7 +351,7 @@
       
       .frame .img {
         position: absolute;
-        width: 79px;
+        /* width: 79px; */
         /* height: 64px; */
         top: 0;
         left: 96px;
@@ -360,7 +360,7 @@
       
       .frame .text-wrapper-2 {
         position: absolute;
-        width: 137px;
+        /* width: 137px; */
         /* height: 50px; */
         top: 71px;
         left: 67px;
@@ -378,7 +378,7 @@
       
       .frame .overlap-2 {
         position: absolute;
-        width: 272px;
+        /* width: 272px; */
         /* height: 118px; */
         top: 743px;
         left: 49px;
@@ -386,7 +386,7 @@
       
       .frame .complete {
         position: absolute;
-        width: 272px;
+        /* width: 272px; */
         /* height: 102px; */
         top: 16px;
         left: 0;
@@ -396,7 +396,7 @@
       
       .frame .img-2 {
         position: absolute;
-        width: 79px;
+        /* width: 79px; */
         /* height: 58px; */
         top: 0;
         left: 96px;
@@ -405,7 +405,7 @@
       
       .frame .text-wrapper-3 {
         position: absolute;
-        width: 166px;
+        /* width: 166px; */
         /* height: 57px; */
         top: 57px;
         left: 53px;
@@ -423,7 +423,7 @@
       
       .frame .overlap-3 {
         position: absolute;
-        width: 272px;
+        /* width: 272px; */
         /* height: 118px; */
         top: 883px;
         left: 49px;
@@ -431,7 +431,7 @@
       
       .frame .expert {
         position: absolute;
-        width: 272px;
+        /* width: 272px; */
         /* height: 101px; */
         top: 17px;
         left: 0;
@@ -441,7 +441,7 @@
       
       .frame .expert-2 {
         position: absolute;
-        width: 79px;
+        /* width: 79px; */
         /* height: 59px; */
         top: 0;
         left: 96px;
@@ -450,7 +450,7 @@
       
       .frame .text-wrapper-4 {
         position: absolute;
-        width: 192px;
+        /* width: 192px; */
         /* height: 61px; */
         top: 50px;
         left: 40px;
@@ -468,7 +468,7 @@
       
       .frame .overlap-4 {
         position: absolute;
-        width: 272px;
+        /* width: 272px; */
         /* height: 120px; */
         top: 1021px;
         left: 49px;
@@ -476,7 +476,7 @@
       
       .frame .updates {
         position: absolute;
-        width: 272px;
+        /* width: 272px; */
         /* height: 101px; */
         top: 19px;
         left: 0;
@@ -486,7 +486,7 @@
       
       .frame .updates-monitoring {
         position: absolute;
-        width: 176px;
+        /* width: 176px; */
         /* height: 61px; */
         top: 48px;
         left: 48px;
