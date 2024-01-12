@@ -428,17 +428,6 @@
         top: 1739px;
         left: 98px;
       }
-
-      /* ??? */
-      .frame .div-3 {
-        position: absolute;
-        width: 272px;
-        height: 101px;
-        top: 17px;
-        left: 0;
-        border: 4px solid;
-        border-color: #f97c37;
-      }
       
       .frame .img {
         position: absolute;
@@ -473,16 +462,6 @@
         height: 280px;
         top: 2001px;
         left: 98px;
-      }
-      
-      .frame .div-2 {
-        position: absolute;
-        width: 272px;
-        height: 101px;
-        top: 19px;
-        left: 0;
-        border: 4px solid;
-        border-color: #f97c37;
       }
       
       .frame .updates-monitoring {
