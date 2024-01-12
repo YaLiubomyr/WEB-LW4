@@ -388,7 +388,7 @@
         position: absolute;
         width: 544px;
         height: 232px;
-        top: 30px;
+        top: 50px;
         left: 0;
         border: 8px solid;
         border-color: #f97c37;
@@ -398,7 +398,7 @@
         position: absolute;
         width: 158px;
         height: 117px;
-        top: 0;
+        top: 20px;
         left: 192px;
         object-fit: cover;
       }
