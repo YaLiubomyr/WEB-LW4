@@ -288,15 +288,15 @@
       
       .frame .nav {
         position: absolute;
-        width: 40px;
-        height: 36px;
-        top: 44px;
+        width: 50px;
+        height: 40px;
+        top: 40px;
         left: 602px;
         object-fit: cover;
         justify-self: right;
         background-color: white;
         border: none;
-        font-size: 40px;
+        font-size: 50px;
         cursor: pointer;
         outline: none;
       }
